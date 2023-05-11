@@ -1,0 +1,132 @@
+.GSWT {
+    position: relative;
+    width: 1440px;
+    height: 3913px;
+    margin: 20px;
+
+    background: #FFFFFF;
+}
+.NavigationBar {
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    width: 1440px;
+    height: 116px;
+    left: 0px;
+    top: 1px; 
+    border: 1px solid black;
+
+}
+.HeroSideImageRight{
+
+    justify-content: first baseline;
+    position: absolute;
+    width: 1440px;
+    height: 700px;
+    left: 0px;
+    top: 117px;
+
+}
+.FeatureSplitRight{
+    position: absolute;
+    width: 1440px;
+    height: 600px;
+    left: 0px;
+    top: 817px;
+
+}
+.PostsTall{
+    position: absolute;
+    width: 1440px;
+    height: 820px;
+    left: 0px;
+    top: 1417px;
+
+}
+.CTASection{
+    position: absolute;
+    width: 1440px;
+    height: 240px;
+    left: 0px;
+    top: 2237px;
+}
+.PostsBlogTop{
+    position: absolute;
+    width: 1440px;
+    height: 860px;
+    left: 0px;
+    top: 2643px;
+}
+.FooterCenter{
+    position: absolute;
+    width: 1440px;
+    height: 410px;
+    left: 0px;
+    top: 3503px;
+}
+.nav > ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+}
+.nav-link {
+    padding-right: 31px;
+
+}
+.nav-link:nth-last-child(){
+margin-right: 0;
+}
+    
+.herobac > .find{
+
+}
+.herobac > .strugging {
+
+}
+.herobac > .Findgiftnow {
+
+}
+.bbackroundf{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+background: #F7941E;
+border-radius: 5px;
+}
+.title {
+    position: absolute;
+    left: 57.85%;
+    right: 28.68%;
+    top: 27.33%;
+    bottom: 65.17%;
+    
+    font-family: 'Gilroy';
+    font-size: 32px;
+    line-height: 140.62%;
+    /* identical to box height, or 45px */
+    
+    
+    color: #000000;
+}
+.herobac {
+    height: 400px;
+    position: absolute;
+    width: 433px;
+    height: 206px;
+    left: 162px;
+    top: 154px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-around;
+ 
+    
+    background: #F1F1F2;
+
+}
+/* .herobac > .imgback { */
